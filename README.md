@@ -18,6 +18,7 @@ Secondarily, if team capacity and interests allow for it, it would be great for 
 - Share any Ops/IT issues or potential projects with the team as GitHub issues in the railsbridge/ops repo. Try to use tags like "urgent," "idea," or "question" to make it easier for team members to prioritize issues.
 - If you are working on an urgent issue, post status updates and communicate with other team members in the **bridge-things/railsbridge-ops** Slack channel so others can follow along or catch up on what happened if they join later.
 - If there's an Ops or IT issue that you solve by yourself, post a brief write-up about it as an issue in the ops repo so other team members can know what happened (and learn from how you fixed it!). Include info like how you found out about the problem, what steps you took to diagnose and fix it, and what the outcome of each step was.
+- Use the private [security](https://github.com/railsbridge/security) repo instead of the ops repo to discuss any application security concerns we might not want to share publicly.
 
 #### Future Projects (just some ideas for now)
 
